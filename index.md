@@ -8,3 +8,4 @@ Due dates project is open source project to build a open, community driven "date
 Currently, due dates for these laws are being tracked
 1. [Income tax](/income-tax/index.md)
 1. [GST](/gst/index.md)
+2. [GST](/gst/index.md)
